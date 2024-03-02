@@ -1,8 +1,22 @@
 # Design Document for Chipper Exam Guard & EncripterForChipperExamGuard
 
-## Introduction
+## Overview
 
-This design document provides a technical overview of the implementation of Chipper Exam Guard and its companion tool, EncripterForChipperExamGuard. It aims to give an insight into the underlying architecture, design decisions, and technical details of the projects.
+Chipper Exam Guard is designed to revolutionize online exam security by introducing innovative features. The project encompasses two applications: one for teachers to encrypt exam links and another for students to decrypt and securely take exams. Inspired by the problem set in Week 2, the application employs layered encryption using Caesar and substitution methods.
+
+## Key Features
+
+1. Dual-Layered Encryption: The use of Caesar and substitution methods provides robust security, ensuring the integrity of exam links.
+
+2. Secure Exam Browser: The student application features a secure exam browser that prevents access to other applications during exams, maintaining a controlled exam environment.
+
+3. Enhanced User Interface: An intuitive and aesthetic user interface enhances the user experience, making navigation and interaction seamless.
+
+4. Automatic App Embedding: When users navigate to the exam page, the application embeds automatically, streamlining the process and minimizing manual efforts.
+
+5. Clear Exam Instructions: To enhance clarity, the application includes explicit exam instructions for participants, reducing potential confusion.
+
+6. Security Measures: The application prevents split-screen usage and screenshot capture, ensuring a secure exam-taking environment.
 
 ## Chipper Exam Guard
 
@@ -24,7 +38,8 @@ The secure exam browser prevents users from opening other applications during ex
 
 EncripterForChipperExamGuard focuses on simplifying the encryption and decryption process of exam links. It provides an intuitive interface for teachers to secure exam links effortlessly.
 
-## Source Code and Comments
+
+## Source Code 
 
 All source code for Chipper Exam Guard and EncripterForChipperExamGuard is available in the respective GitHub repositories. The code is thoroughly commented to enhance readability and understanding. 
 1. the repository CipherExamBrowser:
@@ -44,7 +59,7 @@ Potential future enhancements include improving security measures, exploring add
 
 ## Conclusion
 
-The design choices made in Chipper Exam Guard and EncripterForChipperExamGuard prioritize security, simplicity, and user experience. The modular architecture and thoughtful encryption methods contribute to creating a robust and user-friendly exam security solution.
+Chipper Exam Guard strives to set a new standard in online exam security with its cutting-edge features and commitment to ongoing improvement. Your feedback is invaluable in shaping the future of this project.
 
 ---
 
