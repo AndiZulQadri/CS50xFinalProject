@@ -44,11 +44,14 @@ For more information, follow the installation steps provided in each repository.
 
 ## Video Presentation
 
-Watch the video presentation [here](link_to_video).
+Watch the video presentation [here](https://youtu.be/EY7Kq5RaCVw).
+
+https://github.com/AndiZulQadri/CS50xFinalProject/assets/148630595/11951c5a-c1a1-4578-ab09-b646ad4990ba
+
 
 ## Design Document
 
-For technical details on the project's design and implementation, refer to [DESIGN.md](link_to_design).
+For technical details on the project's design and implementation, refer to [DESIGN.md](DESIGN.md).
 
 ## Sreenshoot
 
